@@ -12,7 +12,7 @@ import os
 
 load_dotenv()
 
-groq_api_key = os.environ['GROQ_API_KEY']
+groq_api_key = os.environ['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']
 
 def main():
 
